@@ -48,6 +48,7 @@ function decode(input) {
         };
 
         reader.readAsDataURL(input.files[0]);
+        alert("decryptedText")
     }
 }
 
