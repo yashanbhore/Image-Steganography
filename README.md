@@ -8,3 +8,4 @@ This project is a simple image steganography web application built using JavaScr
 
 - **Image Encryption:** Upload an image and input a message to be encrypted and hidden within the image.
 - **Image Decryption:** Upload a previously encrypted image to reveal the hidden message.
+
